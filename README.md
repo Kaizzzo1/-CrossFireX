@@ -24,7 +24,7 @@ Follow these simple steps to set up CrossFireX:
 For proper functionality, ensure that Google Chrome is installed on your system. CrossFireX uses a headless browser powered by Chrome for advanced vulnerability testing. Without Chrome, some features (like headless browser testing) may not work correctly.
 
 # Clone the repository
-git clone https://github.com/VulnsecHB/CrossFireX.git
+git clone https://github.com/Kaizzzo1/CrossFireX.git
 
 # Navigate to the directory
 cd CrossFireX
